@@ -1,2 +1,3 @@
 # Refer-Youtube-VOS
-Refer-Youtube-VOS dataset
+
+Please refer to [Refer-Youtube-VOS Challenge](https://competitions.codalab.org/competitions/29139) for more details.
